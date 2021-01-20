@@ -1,5 +1,5 @@
 # Quiz-Portal-Application-with-Information-Storage-and-Report-generation
-A quiz based application with negative marking, timer, scores and report generation. The information for each Candidate is stored in DataBase and exported into CSV using CSV Handling.
+A quiz based application with negative marking, timer, scores and report generation. The information for each Candidate is stored in DataBase and exported into CSV.
 
 ## Directory Structure :-
 
@@ -21,5 +21,5 @@ quiz what were the marks obtained by different users in it.
 This is a CLI Quiz Portal Application which uses Core Python Concepts. The main goals accomplished in this Project are:-
 
 1. Storage of User Registration Information in a SQLite3 DataBase and Retrieval for login.
-2. Conducting Quizzes based on choice of user on which quiz he/she wants to give. The quiz has a timer attached which uses concept of Multi-Threading to be implemented Properly.
+2. Conducting Quizzes based on choice of user on which quiz he/she wants to give. The quiz has a timer attached which uses concept of Multi-Threading.
 3. Short-Cut Keys which can be used by the user to see his/her response to a particular question, Submit the quiz at any instant, Export DataBase information into CSV, show Unattempted Questions.
